@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Lector_PDF\Lector_PDF\bin\Debug\Lector_PDF.exe.config
+C:\Users\Usuario\source\repos\Lector_PDF\Lector_PDF\bin\Debug\Lector_PDF.exe
+C:\Users\Usuario\source\repos\Lector_PDF\Lector_PDF\bin\Debug\Lector_PDF.pdb
+C:\Users\Usuario\source\repos\Lector_PDF\Lector_PDF\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Usuario\source\repos\Lector_PDF\Lector_PDF\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Usuario\source\repos\Lector_PDF\Lector_PDF\obj\Debug\Lector_PDF.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Lector_PDF\Lector_PDF\obj\Debug\Lector_PDF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\Lector_PDF\Lector_PDF\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Usuario\source\repos\Lector_PDF\Lector_PDF\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Usuario\source\repos\Lector_PDF\Lector_PDF\obj\Debug\Lector_PDF.csproj.ResolveComReference.cache
+C:\Users\Usuario\source\repos\Lector_PDF\Lector_PDF\obj\Debug\Lector_PDF.frm1.resources
+C:\Users\Usuario\source\repos\Lector_PDF\Lector_PDF\obj\Debug\Lector_PDF.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Lector_PDF\Lector_PDF\obj\Debug\Lector_PDF.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Lector_PDF\Lector_PDF\obj\Debug\Lector_PDF.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Lector_PDF\Lector_PDF\obj\Debug\Lector_PDF.exe
+C:\Users\Usuario\source\repos\Lector_PDF\Lector_PDF\obj\Debug\Lector_PDF.pdb

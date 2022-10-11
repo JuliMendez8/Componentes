@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\ReproductorVideo\ReproductorVideo\bin\Debug\ReproductorVideo.exe.config
+C:\Users\Usuario\source\repos\ReproductorVideo\ReproductorVideo\bin\Debug\ReproductorVideo.exe
+C:\Users\Usuario\source\repos\ReproductorVideo\ReproductorVideo\bin\Debug\ReproductorVideo.pdb
+C:\Users\Usuario\source\repos\ReproductorVideo\ReproductorVideo\bin\Debug\Interop.WMPLib.dll
+C:\Users\Usuario\source\repos\ReproductorVideo\ReproductorVideo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Usuario\source\repos\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\ReproductorVideo\ReproductorVideo\obj\Debug\Interop.WMPLib.dll
+C:\Users\Usuario\source\repos\ReproductorVideo\ReproductorVideo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Usuario\source\repos\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.csproj.ResolveComReference.cache
+C:\Users\Usuario\source\repos\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.frmReproductor.resources
+C:\Users\Usuario\source\repos\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.Properties.Resources.resources
+C:\Users\Usuario\source\repos\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.exe
+C:\Users\Usuario\source\repos\ReproductorVideo\ReproductorVideo\obj\Debug\ReproductorVideo.pdb
